@@ -1,16 +1,12 @@
 ---
-title: Colophon
+title: Hanafy.
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
-
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I am a web developer/designer with a degree in Computer Systems Security. I was working for a Government-Linked Investment Company called Khazanah Nasional Berhad (KNB) at the Petronas Twin Towers, Kuala Lumpur as an Executive Assistant. I am what you would consider a 'jack of all trades' in the world of ICT. I love to discover new experiences to further my passion in all things ICT. Some might consider me a 'one-man army' who is capable of doing many things to accomplish any task given to me. My doors are always open so if you have any enquiries, do let me know. I am open to anything. 
 
 ##### may u needs ✨
 
