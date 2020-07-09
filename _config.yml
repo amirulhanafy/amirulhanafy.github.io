@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme
+title: Amirul Hanafi Abdullah
 description: >-
   He's writing in Bahasa about web technology and experience as a journal
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -11,12 +11,11 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Amirul Hanafy Abdullah
+  name: Amirul Hanafy
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog,
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username
-  email: your-email@email.com
+    Writer trapped in a body of web designer with a knowledge of cyber security. <br> Follow me <a href="https://twitter.com/amirulhanafy" target="_blank" rel="noopener">@amirulhanafy</a> on Twitter!
+  username: amirulhanafy
+  email: amirulhanafy@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
